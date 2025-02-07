@@ -5,5 +5,5 @@ This is my personal portfolio website, built using Next.js and Tailwind CSS, sho
 🔹 Deployment: Hosted on Vercel
 
 ## Deploy on Vercel
-Deployment Link - [https://my-portfolio-wcr8.vercel.app/](https://my-portfolio-wcr8-git-main-ashis-projects-a7b146de.vercel.app)
+Deployment Link - https://my-portfolio-fgs2-git-main-ashis-projects-a7b146de.vercel.app)
 
